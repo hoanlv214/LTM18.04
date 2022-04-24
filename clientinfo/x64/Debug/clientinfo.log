@@ -1,0 +1,7 @@
+﻿  clientinfo.cpp
+C:\Users\laiva\source\repos\infopc\clientinfo\clientinfo.cpp(47,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\laiva\source\repos\infopc\clientinfo\clientinfo.cpp(63,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\laiva\source\repos\infopc\clientinfo\clientinfo.cpp(80,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\laiva\source\repos\infopc\clientinfo\clientinfo.cpp(84,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\laiva\source\repos\infopc\clientinfo\clientinfo.cpp(88,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  clientinfo.vcxproj -> C:\Users\laiva\source\repos\infopc\x64\Debug\clientinfo.exe

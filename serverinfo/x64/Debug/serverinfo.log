@@ -1,0 +1,6 @@
+﻿  serverinfo.cpp
+C:\Users\laiva\source\repos\infopc\serverinfo\serverinfo.cpp(38,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\laiva\source\repos\infopc\serverinfo\serverinfo.cpp(38,12): message : consider using '%lld' in the format string
+C:\Users\laiva\source\repos\infopc\serverinfo\serverinfo.cpp(38,12): message : consider using '%Id' in the format string
+C:\Users\laiva\source\repos\infopc\serverinfo\serverinfo.cpp(38,12): message : consider using '%I64d' in the format string
+  serverinfo.vcxproj -> C:\Users\laiva\source\repos\infopc\x64\Debug\serverinfo.exe
